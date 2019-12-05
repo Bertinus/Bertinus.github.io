@@ -16,21 +16,11 @@ I was born in Paris in 1994 and lived in Paris and Bergerac before moving to Mon
 ___
 # Publications
 
----
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
----
-
-## Chester: A Web Delivered Locally Computed Chest X-Ray Disease Prediction System
+- Chester: A Web Delivered Locally Computed Chest X-Ray Disease Prediction System
 JP Cohen, P Bertin, V Frappier * (Preprint) 2019 [[pdf](https://arxiv.org/pdf/1901.11210.pdf)]
 
-## Analysis of Gene Interaction Graphs for Biasing Machine Learning Models
+- Analysis of Gene Interaction Graphs for Biasing Machine Learning Models
 P Bertin, M Hashir, M Weiss, G Boucher, V Frappier, JP Cohen * Workshop ICML 2019 [[pdf](https://arxiv.org/pdf/1905.02295.pdf)]
 
-## Is graph biased feature selection of genes better than random?
+- Is graph biased feature selection of genes better than random?
 M Hashir, P Bertin, M Weiss, V Frappier, T Perkins, G Boucher, JP Cohen * MLCB 2019 [[pdf](https://arxiv.org/pdf/1910.09600.pdf)]
