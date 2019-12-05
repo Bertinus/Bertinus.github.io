@@ -31,7 +31,7 @@ JP Cohen, P Bertin, V Frappier \\
 # Master Thesis
 
 - **Analysis of 3D microscopic brain images at high resolution** [[pdf](https://Bertinus.github.io/files/icm_report.pdf)] \\
-Aramis Team, [Inria](https://www.inria.fr/en/centre/paris), Paris. Supervised by [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/). \\
+Aramis Team, [Inria](https://www.inria.fr/en/centre/paris), Paris. Supervised by [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/) and [Nicolas Renier](https://www.renier-lab.com/nicolasrenier). \\
 *Tackled the analysis of graphs embedded into 3D space in order to study the variability and plasticity of vessel networks in the adult mouse brain.*
 
 # Projects
