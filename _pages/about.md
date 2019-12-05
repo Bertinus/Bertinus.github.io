@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Paul Bertin"
+title: "Personal webpage Paul Bertin"
 excerpt: "About me"
 author_profile: true
 redirect_from:
