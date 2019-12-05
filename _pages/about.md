@@ -32,18 +32,18 @@ JP Cohen, P Bertin, V Frappier \\
 
 - **Analysis of 3D microscopic brain images at high resolution** [[pdf](https://Bertinus.github.io/files/icm_report.pdf)] \\
 Aramis Team, [Inria](https://www.inria.fr/en/centre/paris), Paris. Supervised by [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/). \\
-Tackled the analysis of graphs embedded into 3D space in order to study the variability and plasticity of vessel networks in the adult mouse brain.
+*Tackled the analysis of graphs embedded into 3D space in order to study the variability and plasticity of vessel networks in the adult mouse brain.*
 
 # Projects
 
 - **Deep multi armed bandit** [[pdf](https://Bertinus.github.io/files/deepMAB_report.pdf)] \\
-Apply Bayesian Deep Learning methods to deal with the Exploration-Exploitation dilemma in the Multi Armed Bandit problem.
+*Apply Bayesian Deep Learning methods to deal with the Exploration-Exploitation dilemma in the Multi Armed Bandit problem.*
 
 - **Restricted Boltzmann machines on MNIST** [[pdf](https://Bertinus.github.io/files/PGM_report.pdf)] \\
-Review of various algorithms to train Restricted Boltzmann Machines.
+*Review of various algorithms to train Restricted Boltzmann Machines.*
 
 - **Style transfer in images** [[pdf](https://Bertinus.github.io/files/style_transfer_report.pdf)] \\
-Review and implement various approaches for Style Transfer in images (neural algorithm and unsupervised method).
+*Review and implement various approaches for Style Transfer in images (neural algorithm and unsupervised method).*
 
 - **dynamics of glass-forming liquids** [[pdf](https://Bertinus.github.io/files/glass_dynamics_report.pdf)] \\
-Data challenge : prediction of the dynamics of particles in glass-forming liquids.
+*Data challenge : prediction of the dynamics of particles in glass-forming liquids.*
