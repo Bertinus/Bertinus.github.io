@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal webpage"
+title                    : "Paul Bertin"
 title_separator          : "-"
 name                     : &name "Paul Bertin"
 description              : &description "PhD student at Mila, Université de Montréal"

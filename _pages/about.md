@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-___
+___ -->
 # About me
 
 [Resume](https://Bertinus.github.io/files/Resume.pdf)
