@@ -27,3 +27,18 @@ Workshop ICML 2019 [[pdf](https://arxiv.org/pdf/1905.02295.pdf)]
 - **Is graph biased feature selection of genes better than random?** \\
 M Hashir, P Bertin, M Weiss, V Frappier, T Perkins, G Boucher, JP Cohen \\
 MLCB 2019 [[pdf](https://arxiv.org/pdf/1910.09600.pdf)]
+
+# Master Thesis
+
+- **Analysis of 3D microscopic brain images at high resolution** \\
+2018 [[pdf](https://Bertinus.github.io/files/icm_report.pdf)]
+
+# Projects
+
+- **Deep multi armed bandit** [[pdf](https://Bertinus.github.io/files/deepMAB_report.pdf)]
+
+- **Restricted Boltzmann machines on MNIST** [[pdf](https://Bertinus.github.io/files/PGM_report.pdf)]
+
+- **Style transfer in images** [[pdf](https://Bertinus.github.io/files/style_transfer_report.pdf)]
+
+- **dynamics of glass-forming liquids** [[pdf](https://Bertinus.github.io/files/glass_dynamics_report.pdf)]
