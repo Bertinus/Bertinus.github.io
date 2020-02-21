@@ -16,6 +16,10 @@ I was born in Paris in 1994 and lived in Paris and Bergerac before moving to Mon
 ___
 # Publications
 
+- **Mapping the Fine-Scale Organization and Plasticity of the Brain Vasculature** \\
+Christoph Kirst, Sophie Skriabine, Alba Vieites-Prado, Thomas Topilko, Paul Bertin, Gaspard Gerschenfeld, Florine Verny, Piotr Topilko, Nicolas Michalski, Marc Tessier-Lavigne and Nicolas Renier \\
+Cell (2020) [[link](https://doi.org/10.1016/j.cell.2020.01.028)]
+
 - **Is graph biased feature selection of genes better than random?** \\
 M Hashir, P Bertin, M Weiss, V Frappier, T Perkins, G Boucher, JP Cohen \\
 MLCB 2019 [[pdf](https://arxiv.org/pdf/1910.09600.pdf)]
@@ -33,6 +37,10 @@ JP Cohen, P Bertin, V Frappier \\
 - **Analysis of 3D microscopic brain images at high resolution** [[pdf](https://Bertinus.github.io/files/icm_report.pdf)] \\
 Aramis Team, [Inria](https://www.inria.fr/en/centre/paris), Paris. Supervised by [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/) and [Nicolas Renier](https://www.renier-lab.com/nicolasrenier). \\
 *Tackled the analysis of graphs embedded into 3D space in order to study the variability and plasticity of vessel networks in the adult mouse brain.*
+
+# Teaching
+- **Challenges of AI for Transcriptomics** [[pdf](https://Bertinus.github.io/files/Challenges_of_ML4transcriptomics.pdf)] \\
+3 hours lecture given in the [AI for Genomics Bootcamp](http://www.aigenomics.d3center.ca/) program on Feb 7th 2020.
 
 # Projects
 
