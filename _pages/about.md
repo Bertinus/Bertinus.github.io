@@ -39,7 +39,7 @@ Aramis Team, [Inria](https://www.inria.fr/en/centre/paris), Paris. Supervised by
 *Tackled the analysis of graphs embedded into 3D space in order to study the variability and plasticity of vessel networks in the adult mouse brain.*
 
 # Teaching
-- **Challenges of AI for Transcriptomics** [[pdf](https://Bertinus.github.io/files/Challenges_of_ML4transcriptomics.pdf)] \\
+- **Challenges of Machine Learning for Transcriptomics** [[pdf](https://Bertinus.github.io/files/Challenges_of_ML4transcriptomics.pdf)] \\
 3 hours lecture given in the [AI for Genomics Bootcamp](http://www.aigenomics.d3center.ca/) program on Feb 7th 2020.
 
 # Projects
