@@ -37,7 +37,7 @@ P Bertin, JD Viviano, A Tejada-Lapuerta, ..., FJ Theis, Y Bengio \\
 (preprint) 2025 [[pdf](https://arxiv.org/abs/2503.20027)]
 
 - **Causal machine learning for single-cell genomics** \\
-P Bertin*, A Tejada-Lapuerta*, S Bauer, H Aliee, Y Bengio, FJ Theis \\
+P Bertin<sup>*</sup>, A Tejada-Lapuerta<sup>*</sup>, S Bauer, H Aliee, Y Bengio, FJ Theis \\
 (Nature Genetics) 2025 [[pdf](https://www.nature.com/articles/s41588-025-02124-2)]
 
 - **RECOVER identifies synergistic drug combinations in vitro through sequential model optimization** \\
